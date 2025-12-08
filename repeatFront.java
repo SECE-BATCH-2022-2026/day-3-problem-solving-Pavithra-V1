@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main {
+public class repeatFront {
     public static String usermaincode(String str, int n) {
         if (str == null || str.isEmpty() || n <= 0) {
             return str; 
